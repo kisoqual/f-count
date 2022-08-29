@@ -1,1 +1,1 @@
-SWF Script by [Froyo Tam](github.com/froyotam)
+SWF Script by [Froyo Tam](https://github.com/froyotam)
